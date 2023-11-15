@@ -1,6 +1,6 @@
 # PlainText Journaling Markup Language
 
-Inspired by Jeff Huang's idea of a productivity app as a never-ending .txt file [link](https://jeffhuang.com/productivity_text_file/) and influenced by Tony Stubblebine's concept of "interstitial journaling," the PlainText Journaling Markup Language is designed to simplify the experience of plain text journaling.
+Inspired by Jeff Huang's idea of a never-ending .txt file as productivity journal ([link](https://jeffhuang.com/productivity_text_file/)) and influenced by Tony Stubblebine's concept of "interstitial journaling," the PlainText Journaling Markup Language is designed to simplify the experience of plain text journaling.
 
 ## Why?
 I attempted a similar approach of that of Jeff, but found the unruliness of simple plain text lines lacking the necessary context cues. In response, I've crafted a straightforward syntax that maintains the ease of plain text while providing better organization and context for journaling.
