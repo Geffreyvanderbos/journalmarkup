@@ -1,0 +1,40 @@
+2015-10-04
+==========
+This is the alias for this day; something notable that happened.
+----------
+
+07:30 Started off the day with a bullet coffee! It's so heavy on the stomach, though. +diet
+
+- [ ] Purchase new packages of meal replacement
+- [!] Find a diet coach
+
+Went to work late. Arrived at 09:03! Freaking traffic. I am going to start with a meeting that was long overdue.
+
+09:30 +meeting Long overdue meeting
+Atten: Geffrey (late), Achmud, Janice
+Goals: Conclusion whether fully remote working works for us.
+Notes: A comprehensive list of pros and cons was generated:
+  Pros:
+  -	Increased flexibility for employees
+	-	Potential cost savings
+	-	Broader talent pool
+	-	Improved work-life balance
+  Cons:
+  -	Concerns about productivity
+	-	Communication challenges
+	-	Impact on team collaboration
+	-	Potential security risks
+  Each team member shared their perspective on remote work, addressing concerns and highlighting potential benefits. All members agreed it's worth a try. +remoteWork
+Tasks:
+- [ ] Further research on remote work best practices
+- [ ] Assign people to a task force to explore implementation strategies
+- [ ] ! Schedule follow-up discussion.
+
+I came home after a long day of work. Sat in a traffic jam on the way back home. Listening to a great podcast. Need to research some of these producers they talked about.
+- [ ] Look-up the producers from that podcast episode.
+
+
+2015-10-05
+==========
+
+06:05 Woke up refreshed and ready to face the day!
