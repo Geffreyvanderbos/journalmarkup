@@ -12,8 +12,7 @@ I attempted a similar approach of that of Jeff, but found the unruliness of simp
 - **Draft Python Script**: A basic Python script is included for terminal-based manipulation. This script is in a proof-of-concept state, open for exploration and improvement.
 
 ## The Language Features
-- Main headings underlined with equals(=) signs.
-- Date formatting (e.g., 2023-11-14) underlined with equals sign initiates a new journal entry.
+- Date formatting (e.g., 2023-11-14) underlined with equals(=) signs initiate a new journal entry.
 - Subheadings indicated by an underline of dashes.
 - Allows plaintext and per-line thoughts with flexible organization using line breaks, indentation, or lists.
 - Follows Markdown-like syntax for tasks.
