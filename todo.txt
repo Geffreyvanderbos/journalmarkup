@@ -1,0 +1,4 @@
+- [ ] Add Q: syntax for questions and answers.
+- [ ] Enhance the the AREA and PERSON syntax to always use CAPITAL LETTERS. +AREA @PERSON
+- [ ] Add identation rules, they are double space.
+- [ ] Rewrite CLI tool function to organise tasks and ignore 'cancelled' tasks.
