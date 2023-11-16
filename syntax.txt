@@ -42,7 +42,8 @@ Syntax   Description
 - [ ] /  incomplete
 - [ ]	-  canceled
 - [ ]	>  forwarded
-- [ ]	>  question
+- [ ]	<  waiting for
+- [ ]	?  question
 ======== ===========
 
 Simple Tables
